@@ -48,7 +48,7 @@ You will also need your **university system login credentials** to access the sy
 
 2. Run the script:
    ```bash
-   node your-script.js
+   node script.js
    ```
 
 3. Once the script completes, the course data will be saved in a file named `class-schedules.json`.
