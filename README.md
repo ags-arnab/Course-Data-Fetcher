@@ -33,7 +33,7 @@ You will also need your **university system login credentials** to access the sy
 
 2. Install the dependencies:
    ```bash
-   npm install
+   npm install axios qs cheerio
    ```
 
 ---
